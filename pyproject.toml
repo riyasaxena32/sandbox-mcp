@@ -5,7 +5,7 @@ description = "An MCP server that gives AI coding agents disposable, isolated Do
 readme = "README.md"
 requires-python = ">=3.12"
 license = { text = "MIT" }
-authors = [{ name = "Dhananjay" }]
+authors = [{ name = "riyasaxena32" }]
 keywords = ["mcp", "docker", "sandbox", "ai-agents", "llm", "isolation"]
 
 dependencies = [
@@ -30,8 +30,8 @@ dev = [
 sandbox-mcp = "sandbox_mcp.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/Dhananjay-JSR/sandbox-mcp"
-Repository = "https://github.com/Dhananjay-JSR/sandbox-mcp"
+Homepage = "https://github.com/riyasaxena32/sandbox-mcp"
+Repository = "https://github.com/riyasaxena32/sandbox-mcp"
 
 [build-system]
 requires = ["hatchling"]

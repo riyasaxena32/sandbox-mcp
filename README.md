@@ -267,7 +267,7 @@ Requires **Python 3.12+** and a running Docker engine (Docker Desktop,
 OrbStack, Colima or Rancher Desktop).
 
 ```bash
-git clone https://github.com/Dhananjay-JSR/sandbox-mcp.git
+git clone https://github.com/riyasaxena32/sandbox-mcp.git
 cd sandbox-mcp
 uv sync                     # exact versions from uv.lock
 ```
