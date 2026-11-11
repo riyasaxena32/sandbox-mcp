@@ -1,5 +1,7 @@
 # Sandbox MCP
 
+> _Last updated: 2026-11-11_
+
 AI coding agents are powerful because they can execute code. That is also their
 biggest risk: experimentation can modify the developer's environment.
 
